@@ -40,7 +40,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](samspa.in/sam-spain-software-engineer-cv.pdf) and ![Image](src)
+[Link](https://github.com/sam-spain/sam-spain.github.io/raw/main/sam-spain-software-engineer-cv.pdf) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
