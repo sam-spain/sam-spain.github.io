@@ -12,6 +12,14 @@ If you would like to contact me via email you can reach me at `sam[at]samspain.c
 
 ### Contact
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 To send me an email you can get me at `sam[at]samspain.com`
 Al
 
