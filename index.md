@@ -9,3 +9,5 @@ If you would like to contact me via email you can reach me at `sam[at]samspain.c
 - [LinkedIn](https://www.linkedin.com/in/samspain/)
 - [GitHub](https://github.com/sam-spain)
 - [Discord](https://discordapp.com/users/184321875256672256/)
+- [Download my CV](https://github.com/sam-spain/sam-spain.github.io/raw/main/sam-spain-software-engineer-cv.pdf)
+
