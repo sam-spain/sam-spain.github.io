@@ -12,15 +12,20 @@
 
 @media (prefers-color-scheme: dark) {
   #content {
-    background: #333;
     color: white;
+  }
+
+  body {
+    background: #333;
   }
 }
 
 @media (prefers-color-scheme: light) {
   #content {
-    background: white;
     color: #555;
+  }
+  body {
+    background: white;
   }
 }
 #content h2,
