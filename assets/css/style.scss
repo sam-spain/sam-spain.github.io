@@ -4,8 +4,22 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: #fff;
-    text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(342deg, #451c52, #0714b1);
+  color: #fff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(342deg, #451c52, #0714b1);
+}
+
+@media (prefers-color-scheme: dark) {
+  #content {
+    background: #333;
+    color: white;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  #content {
+    background: white;
+    color: #555;
+  }
 }
