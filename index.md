@@ -1,4 +1,4 @@
-## About Sam Spain
+### About Sam Spain
 ![Image of Sam](https://github.com/sam-spain/sam-spain.github.io/blob/main/profile.jpg?raw=true)
 
 Hello there! My name is Sam Spain and I'm pleased you have found you way to my website. I am a full stack software engineer continually developing a care home management system called CoolCare. My job is to pick up all elements of the technology stack of our product and contribute to development to keep CoolCare the UK's most efficient care home management tool.
