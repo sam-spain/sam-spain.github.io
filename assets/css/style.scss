@@ -4,58 +4,66 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: white;
-    text-align: center;
-    background-color: #92c7ff;
-    background-image: linear-gradient(342deg, #92c7ff, #454db5);
+  color: white;
+  text-align: center;
+  background-color: #cc477a;
+  background-image: linear-gradient(207deg, #cc477a, #c53434);
 }
 h1,
 h2 {
-    background-image: linear-gradient(183deg, #d6d4d4, #ffffff);
-    background-size: 42%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
+  background-image: linear-gradient(183deg, #d6d4d4, #ffffff);
+  background-size: 42%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
 }
 
 @media (prefers-color-scheme: dark) {
-    #content {
-        color: white;
-    }
+  #content {
+    color: white;
+  }
 
-    body {
-        background: #333;
-    }
+  body {
+    background: #333;
+  }
 }
 
 @media (prefers-color-scheme: light) {
-    #content {
-        color: #555;
-    }
-    body {
-        background: white;
-    }
+  #content {
+    color: #555;
+  }
+  body {
+    background: white;
+  }
 }
 #content h2,
 #content h3,
 #content h4 {
-    background-color: #92c7ff;
-    background-image: linear-gradient(46deg, #02b9ff, #104071);
-    background-size: 45%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
+  background-color: #cf4778;
+  background-image: linear-gradient(46deg, #cf4778, #ff0000);
+  background-size: 45%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
 }
 
 #content img {
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    object-position: 65% 62%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: 65% 62%;
+}
+
+a {
+    color:rgb(233, 0, 78);
+}
+
+a:visited {
+    color:rgb(192, 4, 67);
 }
