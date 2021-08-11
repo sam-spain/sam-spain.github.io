@@ -10,6 +10,11 @@
   background-image: linear-gradient(342deg, #451c52, #0714b1);
   h1, h2 {
     background-image: linear-gradient(342deg, #f81818, #eb6c17);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
   }
 }
 
@@ -35,4 +40,10 @@
 #content h3,
 #content h4 {
     background-image: linear-gradient(342deg, #f81818, #eb6c17);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+  }
 }
